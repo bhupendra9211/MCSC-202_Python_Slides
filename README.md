@@ -1,6 +1,7 @@
 # Numeircal Methods (MCSC-202): Python Lecture Slides Examples 
 This repository has the examples presented in Python Lectures in the course Numerical Methods (MCSC-202) offered to undergraduate level programs at 
-Kathmandu University, Nepal
+Kathmandu University, Nepal.
+
 Here are the following repositories:
 
 - Python_Slide1_Examples.ipynb
